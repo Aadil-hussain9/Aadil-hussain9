@@ -14,8 +14,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/aadil-dar-6ab79b211?originalSubdomain=in&original_referer="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Aadil | LinkedIn" width="21px"/></a>
-<a href="[https://instagram.com/yushi.95](https://instagram.com/daraadil639?igshid=ZGUzMzM3NWJiOQ==)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/aadil-dar-6ab79b211?originalSubdomain=in&original_referer="><img align="left" src="https://github.com/Aadil-hussain9/Aadil-hussain9/assets/49592062/37988b7f-9edd-4d7d-ae8d-bcd91f015f9f" alt="Aadil | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/daraadil639?igshid=ZGUzMzM3NWJiOQ=="><img align="left" 
+               src="https://github.com/Aadil-hussain9/Aadil-hussain9/assets/49592062/e34c12ff-4f00-4438-8291-7580d4e1d6c1" alt="Aadil | Instagram" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
